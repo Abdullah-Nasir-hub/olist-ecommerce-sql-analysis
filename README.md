@@ -76,4 +76,4 @@ olist-ecommerce-sql-analysis/
 **Abdullah Nasir**  
 Business Analytics Student @ FAST-NUCES Lahore  
 abdullahnasir.anc@gmail.com  
-[LinkedIn](https://linkedin.com/in/your-linkedin-here)
+[LinkedIn](www.linkedin.com/in/abdullah-nasir-analyst)
